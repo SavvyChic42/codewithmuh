@@ -59,6 +59,7 @@
 
 <a href="https://www.buymeacoffee.com/codewithmuh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+## Support 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 

@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DevOps, AWS, Django, Backend-Development, and Web/App Development**
 
-- 📫 How to reach me via E-mail **support@codewithmuh.com**
+- 📫 How to reach me via E-mail **codewithmuh@gmail.com**
 
 - ⚡ Fun fact **I think I'm not a boring person.**
 
